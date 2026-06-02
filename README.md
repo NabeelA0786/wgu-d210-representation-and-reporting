@@ -24,4 +24,3 @@ Designed and built an interactive Tableau dashboard combining telecom churn data
 | `D210 Tableau Dashboard.twbx` | Packaged Tableau workbook |
 | `churn_clean.csv` | Churn input data |
 | `acs_income_by_zip.csv` | Census income data by ZIP |
-| `D210 Performance Assessment.docx` | Written report |
